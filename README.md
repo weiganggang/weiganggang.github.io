@@ -1,2 +1,1 @@
-# weiganggang.github.io
-这是卫刚的个人网站
+欢迎来到卫刚的个人网站
